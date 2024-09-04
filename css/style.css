@@ -56,7 +56,7 @@ color: #0D0F16;
   margin: 0 auto;
 }
 .navbar-brand{
-  font-family: 'Satisfy', cursive;
+  font-family: 'Times New Roman', Times, serif;
   font-size: 4.4rem;
   color: #0D0F16;
 }
@@ -157,7 +157,7 @@ a.my-cv:hover {
 
 
 
-/* first-section */
+
 .first-section{
   background-color: #FEF4F2;
   padding-top: 9rem;
@@ -548,7 +548,7 @@ border-radius: 10px;
   padding: 1.5rem 0;
 }
 .social-media{
-  margin-top: 4rem;
+  margin-top: 2rem;
 }
 .social-media img{
   width: 40px;
@@ -559,7 +559,7 @@ border-radius: 10px;
   transform:scale(1.2) rotate(-45deg);  
 }
 .social-media a{
-  margin: auto 1.5rem;
+  margin: auto 0.5rem;
 }
 
 .contact-section .row{
